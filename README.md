@@ -1,1 +1,1 @@
-# RIL_stock_price_prediction_LSTM
+# Reliance Industries Stock market prediction using LSTM
